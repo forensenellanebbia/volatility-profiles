@@ -10,7 +10,7 @@ Copy the profile files to:
 
 ## Useful resources
 
-RHEL
+Red Hat Enterprise Linux (RHEL)
 
 * http://ftp.redhat.com/pub/redhat/linux/enterprise/
 
@@ -19,6 +19,11 @@ RHEL
 Fedora
 
 * https://kojipkgs.fedoraproject.org/packages/kernel/
+
+SUSE Linux Enterprise Server (SLE)
+
+* Download trial ISO: https://www.suse.com/download/sles/
+* Request trial code: https://scc.suse.com/products/2140
 
 libdwarf/dwarfdump
 

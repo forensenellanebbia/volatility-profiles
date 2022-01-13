@@ -16,6 +16,12 @@ Red Hat Enterprise Linux (RHEL)
 
 * https://access.redhat.com/downloads/content/package-browser
 
+CentOS
+
+* http://mirror.centos.org/centos/7/updates/x86_64/Packages/
+
+* http://debuginfo.centos.org/7/x86_64/
+
 Fedora
 
 * https://kojipkgs.fedoraproject.org/packages/kernel/

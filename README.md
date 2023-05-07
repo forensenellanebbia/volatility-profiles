@@ -10,27 +10,36 @@ Copy the profile files to:
 
 ## Useful resources
 
-Red Hat Enterprise Linux (RHEL)
+**Red Hat Enterprise Linux (RHEL)**
 
-* http://ftp.redhat.com/pub/redhat/linux/enterprise/
+* /pub/redhat/linux/enterprise: http://ftp.redhat.com/pub/redhat/linux/enterprise/
+* Download Red Hat Enterprise Linux: https://access.redhat.com/downloads
+* Red Hat Packages: https://access.redhat.com/downloads/content/package-browser
+* Activation Keys: https://console.redhat.com/settings/connector/activation-keys
+* How to register a system to Red Hat Subscription Management using an activation key?: https://access.redhat.com/solutions/3341191
 
-* https://access.redhat.com/downloads/content/package-browser
+Register your installation to install packages from redhat repo:
 
-CentOS
+>subscription-manager register --org=ORG ID --activationkey=Key Name
+
+Install these packages:
+
+>dnf install gcc make elfutils-libelf-devel
+
+**CentOS**
 
 * http://mirror.centos.org/centos/7/updates/x86_64/Packages/
-
 * http://debuginfo.centos.org/7/x86_64/
 
-Fedora
+**Fedora**
 
 * https://kojipkgs.fedoraproject.org/packages/kernel/
 
-SUSE Linux Enterprise Server (SLE)
+**SUSE Linux Enterprise Server (SLE)**
 
 * Download trial ISO: https://www.suse.com/download/sles/
 * Request trial code: https://scc.suse.com/products/2140
 
-libdwarf/dwarfdump
+**libdwarf/dwarfdump**
 
 * https://www.prevanders.net/dwarf.html#releases

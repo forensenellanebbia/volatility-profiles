@@ -17,6 +17,8 @@ Copy the profile files to:
 * Red Hat Packages: https://access.redhat.com/downloads/content/package-browser
 * Activation Keys: https://console.redhat.com/settings/connector/activation-keys
 * How to register a system to Red Hat Subscription Management using an activation key?: https://access.redhat.com/solutions/3341191
+* How do I install a specific kernel version?: https://access.redhat.com/solutions/134403
+* How can I download or install kernel debuginfo packages for RHEL systems?: https://access.redhat.com/solutions/9907
 
 Register your installation to install packages from redhat repo:
 
